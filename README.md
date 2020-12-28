@@ -4,14 +4,18 @@
 
 <!--ts-->
    * [Introduction](#ANL)
-      * [How does it offer?](#what-does-it-offer)
+      * [What does it offer?](#what-does-it-offer)
       * [Notes](#notes)
 <!--te-->
 
-## How does it offer?
+## What does it offer?
 
-This library base is more aimed towards games but it allows to implement other protocols to enhance the system and your application. It provides a packet identification system for outgoing and incoming packets allowing to define your own from the server to the client side and generics that helps the developer to process them.
+The library main objective is games but it can be extended by implementing new protocols. Also it gives: 
 
-### Notes 
+* Generic definitions for the **TCP** and **UDP** protocols
+* Packet handling system
+* Easy-To-Use multithread system
+
+#### Notes 
 
 ```ANL still isn't a complete solution, the developer customization may be required!```
